@@ -1,0 +1,2014 @@
+# Translation of Themes - Bravada in Japanese
+# This file is distributed under the same license as the Themes - Bravada package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-27 04:19:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Bravada\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Bravada"
+msgstr "Bravada"
+
+#: admin/options.php:408
+msgid "Header options"
+msgstr "ヘッダー設定"
+
+#: admin/options.php:408
+msgid "Fine tune the visibility of these elements from the theme's %s"
+msgstr "これらの要素の表示および非表示をテーマの%sから微調整してください"
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa.php:98
+msgid "The following suggested plugin is currently inactive: %1$s."
+msgid_plural "The following suggested plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ推奨プラグインは、現在有効化されていません: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa.php:74
+msgid "This theme suggests the following plugin: %1$s."
+msgid_plural "This theme suggests the following plugins: %1$s."
+msgstr[0] "このテーマは以下のプラグインを推奨しています: %1$s。"
+
+#: admin/options.php:2148
+msgid "Lazy load images"
+msgstr "画像の遅延読み込み"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: image.php:66
+msgid "Next image"
+msgstr "次の画像"
+
+#: image.php:65
+msgid "Previous image"
+msgstr "前の画像"
+
+#: image.php:31
+msgid "pixels"
+msgstr "ピクセル"
+
+#: image.php:27
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "フルサイズ"
+
+#: includes/comments.php:169 includes/comments.php:170
+msgctxt "noun"
+msgid "Comment"
+msgstr "コメント"
+
+#: includes/comments.php:160
+msgid "Save my name, email, and site URL in my browser for next time I post a comment."
+msgstr "次にコメントを投稿する時のために、このブラウザーに名前、メール、サイト URL を保存する。"
+
+#: includes/comments.php:155 includes/comments.php:156
+msgid "Website"
+msgstr "サイト"
+
+#: includes/comments.php:151 includes/comments.php:152
+msgid "Email"
+msgstr "メール"
+
+#: comments.php:23 includes/comments.php:118
+msgid "One comment"
+msgstr "1件のコメント"
+
+#: includes/comments.php:114
+msgid "Jump to comments"
+msgstr "コメントへ移動"
+
+#: comments.php:25 includes/comments.php:99 includes/comments.php:119
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s件のコメント"
+
+#: includes/comments.php:98
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: includes/comments.php:95
+msgid "Comments on \"%s\""
+msgstr "%s へのコメント"
+
+#: includes/comments.php:73
+msgid "Reply"
+msgstr "返信"
+
+#: includes/comments.php:57
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: includes/comments.php:45
+msgctxt "%s = human-readable time difference"
+msgid "%1$s ago"
+msgstr "%1$s前"
+
+#: includes/comments.php:24 includes/comments.php:50
+msgid "(Edit)"
+msgstr "(編集)"
+
+#: includes/comments.php:24
+msgid "Pingback: "
+msgstr "ピンバック:  "
+
+#: includes/core.php:491
+msgid "Page"
+msgstr "固定ページ"
+
+#: includes/core.php:490
+msgid "Post format"
+msgstr "投稿フォーマット"
+
+#: includes/core.php:487
+msgid "Posts tagged"
+msgstr "タグ付きの投稿:"
+
+#: includes/core.php:486
+msgid "Search results for \"%s\""
+msgstr "「%s」の検索結果"
+
+#: includes/core.php:485
+msgid "Archive for category \"%s\""
+msgstr "「%s」カテゴリーの投稿アーカイブ"
+
+#: includes/core.php:395
+msgid "Powered by"
+msgstr "Powered by"
+
+#: includes/core.php:344
+msgid "Back to Top"
+msgstr "トップに戻る"
+
+#: includes/loop.php:306
+msgid "Newer posts"
+msgstr "新しい投稿"
+
+#: includes/loop.php:302
+msgid "Older posts"
+msgstr "過去の投稿"
+
+#: includes/loop.php:235
+msgid "Featured"
+msgstr "注目"
+
+#: includes/loop.php:197
+msgid "Tagged"
+msgstr "タグ:"
+
+#: includes/loop.php:169
+msgid "Date"
+msgstr "日付"
+
+#: includes/loop.php:111
+msgid "Author"
+msgstr "投稿者"
+
+#: includes/loop.php:92
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: includes/tgmpa.php:119
+msgid "Return to Suggested Plugins Installer"
+msgstr "推奨プラグインのインストール画面に戻る"
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa.php:80
+msgid "The following plugin should be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins should be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "このテーマとの最大限の互換性を確保するため、以下のプラグインを最新バージョンに更新する必要があります: %1$s。"
+
+#: includes/meta.php:49
+msgid "Default Theme Layout"
+msgstr "デフォルトのテーマレイアウト"
+
+#: includes/meta.php:18
+msgid "Static Page Layout"
+msgstr "固定ページのレイアウト"
+
+#: includes/setup.php:179
+msgid "larger"
+msgstr "特大"
+
+#: includes/setup.php:173
+msgid "large"
+msgstr "大"
+
+#: includes/setup.php:167
+msgid "normal"
+msgstr "通常"
+
+#: includes/setup.php:161
+msgid "small"
+msgstr "小"
+
+#: includes/setup.php:139
+msgid "Accent #2"
+msgstr "アクセント2"
+
+#: includes/setup.php:134
+msgid "Accent #1"
+msgstr "アクセント1"
+
+#: includes/setup.php:59
+msgid "Footer Navigation"
+msgstr "フッターナビゲーション"
+
+#: includes/setup.php:57
+msgid "Header Navigation"
+msgstr "ヘッダーナビゲーション"
+
+#: content/content-notfound.php:10
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: content/user-bio.php:30
+msgid "View all posts by "
+msgstr "すべての投稿を表示: "
+
+#: single.php:84
+msgid "Next"
+msgstr "次"
+
+#: single.php:80
+msgid "Previous"
+msgstr "前"
+
+#: content/content-page.php:29 content/content.php:40 single.php:38
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: searchform.php:12 searchform.php:14
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "検索対象:"
+
+#: 404.php:16
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "お探しのページが存在しません。サイト内検索で見つかるかもしれません。"
+
+#: 404.php:15 includes/core.php:245 includes/core.php:489
+msgid "Not Found"
+msgstr "見つかりません"
+
+#: includes/core.php:242 search.php:18
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: cryout/prototypes.php:829
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s をインストール中 (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3518
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s のインストールを完了しました。"
+
+#: cryout/tgmpa-class.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインをインストール、有効化中 (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3510
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509 cryout/tgmpa-class.php:3517
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509 cryout/tgmpa-class.php:3517
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s のインストールと有効化が完了しました。"
+
+#: cryout/tgmpa-class.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#. translators: 1: plugin name, 2: error message.
+#: cryout/tgmpa-class.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s のインストール中にエラーが発生しました: <strong>%2$s</strong>。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインを更新中 (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3158
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: cryout/tgmpa-class.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: cryout/tgmpa-class.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+#: cryout/tgmpa-class.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+#: cryout/tgmpa-class.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "現在インストールできるプラグインはありません。"
+
+#: cryout/tgmpa-class.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
+
+#: cryout/tgmpa-class.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+#: cryout/tgmpa-class.php:2726
+msgid "Activate"
+msgstr "有効化"
+
+#: cryout/tgmpa-class.php:2717
+msgid "Install"
+msgstr "インストール"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s 有効化"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2608
+msgid "Update %2$s"
+msgstr "%2$s 更新"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2603
+msgid "Install %2$s"
+msgstr "%2$s インストール"
+
+#: cryout/tgmpa-class.php:2554
+msgid "Status"
+msgstr "ステータス"
+
+#: cryout/tgmpa-class.php:2553
+msgid "Version"
+msgstr "バージョン"
+
+#: cryout/tgmpa-class.php:2549
+msgid "Type"
+msgstr "タイプ"
+
+#: cryout/tgmpa-class.php:2510
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: cryout/tgmpa-class.php:2490
+msgid "Installed version:"
+msgstr "インストール済みバージョン:"
+
+#: cryout/tgmpa-class.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "未有効化 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "利用可能な更新 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "未インストール <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#: cryout/tgmpa-class.php:2333
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+#: cryout/tgmpa-class.php:2330
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: cryout/tgmpa-class.php:2327
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
+
+#: cryout/tgmpa-class.php:2321
+msgid "Active"
+msgstr "有効"
+
+#: cryout/tgmpa-class.php:2319
+msgid "Installed But Not Activated"
+msgstr "インストール済み、停止中"
+
+#: cryout/tgmpa-class.php:2315
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: cryout/tgmpa-class.php:2298
+msgid "Pre-Packaged"
+msgstr "パッケージ化済み"
+
+#: cryout/tgmpa-class.php:2295
+msgid "External Source"
+msgstr "外部ソース"
+
+#: cryout/tgmpa-class.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress リポジトリ"
+
+#. translators: %s: version number
+#: cryout/tgmpa-class.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: cryout/tgmpa-class.php:1121 cryout/tgmpa-class.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: cryout/tgmpa-class.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルが1つのフォルダー内にパッケージされていません。"
+
+#: cryout/tgmpa-class.php:934 cryout/tgmpa-class.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
+
+#: cryout/tgmpa-class.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージには指定されたスラッグのフォルダーがないため、名前の変更ができませんでした。"
+
+#: cryout/tgmpa-class.php:523
+msgid "Update Required"
+msgstr "更新が必要です"
+
+#: cryout/tgmpa-class.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: cryout/tgmpa-class.php:397 includes/tgmpa.php:130
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: cryout/tgmpa-class.php:395 includes/tgmpa.php:128
+msgid "Dismiss this notice"
+msgstr "この通知を非表示"
+
+#. translators: 1: dashboard link.
+#: cryout/tgmpa-class.php:394 includes/tgmpa.php:127
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインをインストールし、有効化しました。%1$s"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:392 includes/tgmpa.php:125
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:390 includes/tgmpa.php:123
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+#: cryout/tgmpa-class.php:387 cryout/tgmpa-class.php:3159
+#: includes/tgmpa.php:120
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#: cryout/tgmpa-class.php:386 cryout/tgmpa-class.php:827
+#: cryout/tgmpa-class.php:2533 cryout/tgmpa-class.php:3580
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: cryout/tgmpa-class.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: cryout/tgmpa-class.php:380 includes/tgmpa.php:114
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: cryout/tgmpa-class.php:375 includes/tgmpa.php:109
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#: cryout/tgmpa-class.php:370 includes/tgmpa.php:104
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:364 includes/tgmpa.php:92
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ推奨プラグインは、現在有効化されていません: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ必須プラグインは、現在有効化されていません: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:352 includes/tgmpa.php:86
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "利用可能な更新があります: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "このテーマとの最大限の互換性を確保するため、以下のプラグインを最新バージョンに更新する必要があります: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:340 includes/tgmpa.php:68
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマは以下のプラグインを推奨しています: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマには以下のプラグインが必要です: %1$s。"
+
+#: cryout/tgmpa-class.php:333 includes/tgmpa.php:67
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API で問題が発生しました。"
+
+#. translators: %s: plugin name.
+#: cryout/tgmpa-class.php:332 includes/tgmpa.php:66
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新中: %s"
+
+#. translators: %s: plugin name.
+#: cryout/tgmpa-class.php:330 includes/tgmpa.php:64
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+#: cryout/tgmpa-class.php:328
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: cryout/tgmpa-class.php:327
+msgid "Install Required Plugins"
+msgstr "必須プラグインをインストール"
+
+#: sidebar-right.php:18
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: admin/options.php:2956
+msgid "Side Section"
+msgstr "サイドバーセクション"
+
+#: admin/options.php:2941
+msgid "Content After"
+msgstr "後のコンテンツ"
+
+#: admin/options.php:2934
+msgid "Content Before"
+msgstr "前のコンテンツ"
+
+#: admin/options.php:2927
+msgid "You can configure how many columns the footer displays from the theme options"
+msgstr "フッターに表示する列の数テーマオプションから設定可能です"
+
+#: admin/options.php:2919
+msgid "Sidebar Right"
+msgstr "右サイドバー"
+
+#: admin/options.php:2912
+msgid "Sidebar Left"
+msgstr "左サイドバー"
+
+#: admin/options.php:2169
+msgid "<br>Only use these options to troubleshoot issues."
+msgstr "<br>これらのオプションは問題のトラブルシューティング用にのみ使用してください。"
+
+#: admin/options.php:2168
+msgid "Front Page Only"
+msgstr "フロントページのみ"
+
+#: admin/options.php:2166
+msgid "Preloader"
+msgstr "プリローダー"
+
+#: admin/options.php:2159
+msgid "Enable on mobiles"
+msgstr "モバイルで有効化"
+
+#: admin/options.php:2159 admin/options.php:2168
+msgid "Enable"
+msgstr "有効化"
+
+#: admin/options.php:2157
+msgid "FitVids"
+msgstr "FitVids"
+
+#: admin/options.php:2140
+msgid "Editor Styles"
+msgstr "エディタースタイル"
+
+#: admin/options.php:2124
+msgid "Header image size requirements"
+msgstr "ヘッダー画像サイズ要件"
+
+#: admin/options.php:2107
+msgid "JS Defer loading"
+msgstr "JS 遅延読み込み"
+
+#: admin/options.php:2099
+msgid "Masonry"
+msgstr "Masonry"
+
+#: admin/options.php:2091
+msgid "Default Pages Menu"
+msgstr "デフォルト固定ページメニュー"
+
+#: admin/options.php:2083
+msgid "Select where social icons should be displayed.<br><br><strong>Social Icons are defined using the <a href=\"%1$s\" target=\"_blank\">socials menu</a></strong>. Read the <a href=\"%2$s\" target=\"_blank\">theme documentation</a> for detailed information."
+msgstr "どこにソーシャルアイコンを表示させるべきかを選んでください。<br><br><strong>ソーシャルアイコンは <a href=\"%1$s\" target=\"_blank\">ソーシャルアイコンメニューを使います</a></strong>。ソーシャルメニューを作る方法については<a href=\"%2$s\" target=\"_blank\">テーマドキュメント</a> を読んでください。"
+
+#: admin/options.php:2070
+msgid "Display in Footer"
+msgstr "フッターに表示"
+
+#: admin/options.php:2038
+msgid "Center Bottom"
+msgstr "中央下"
+
+#: admin/options.php:2038
+msgid "Center Center"
+msgstr "中央/中央"
+
+#: admin/options.php:2038
+msgid "Center Top"
+msgstr "中央上"
+
+#: admin/options.php:2038
+msgid "Right Bottom"
+msgstr "右下"
+
+#: admin/options.php:2038
+msgid "Right Center"
+msgstr "右中央"
+
+#: admin/options.php:2038
+msgid "Right Top"
+msgstr "右上"
+
+#: admin/options.php:2038
+msgid "Left Bottom"
+msgstr "左下"
+
+#: admin/options.php:2038
+msgid "Left Center"
+msgstr "左中央"
+
+#: admin/options.php:2038
+msgid "Left Top"
+msgstr "左上"
+
+#: admin/options.php:2038
+msgid "No Crop"
+msgstr "切り取りなし"
+
+#: admin/options.php:2036
+msgid "Featured Image Crop Position"
+msgstr "アイキャッチ画像の切り抜き位置"
+
+#: admin/options.php:2031
+msgid "<strong>Contained</strong> will scale depending on the viewed resolution<br><strong>Cropped</strong> will try to keep the configured height."
+msgstr "<strong>Contained (含まれる)</strong> は解像度に依存して拡大縮小し、 <br><strong>Cropped (切り抜く)</strong> は常に設定された高さで表示されます。"
+
+#: admin/options.php:2030
+msgid "Featured Image Behaviour"
+msgstr "アイキャッチ画像の動作"
+
+#: admin/options.php:2015
+msgid "Set to 0 to disable image processing"
+msgstr "画像処理を無効化するには0に設定"
+
+#: admin/options.php:2014
+msgid "Featured Image Height"
+msgstr "アイキャッチ画像の高さ"
+
+#: admin/options.php:2003
+msgid "Auto Select Image From Content"
+msgstr "コンテンツから画像を自動選択"
+
+#: admin/options.php:1996
+msgid "Featured Images"
+msgstr "アイキャッチ画像"
+
+#: admin/options.php:1988
+msgid "Comment Form Width"
+msgstr "コメントフォームの幅"
+
+#: admin/options.php:1973
+msgid "Change to labels for better compatibility with comment-related plugins."
+msgstr "コメント関連のプラグインとの互換性のためにラベルに変更する。"
+
+#: admin/options.php:1972
+msgid "Labels"
+msgstr "ラベル"
+
+#: admin/options.php:1972
+msgid "Placeholders"
+msgstr "プレースホルダー"
+
+#: admin/options.php:1970
+msgid "Comment Field Label"
+msgstr "コメントフィールドのラベル"
+
+#: admin/options.php:1964
+msgid "Relative"
+msgstr "相対"
+
+#: admin/options.php:1964
+msgid "Specific"
+msgstr "特定の"
+
+#: admin/options.php:1956
+msgid "Hide everywhere"
+msgstr "どこでも非表示"
+
+#: admin/options.php:1956
+msgid "Hide in pages"
+msgstr "固定ページで非表示"
+
+#: admin/options.php:1956
+msgid "Hide in posts"
+msgstr "投稿で非表示"
+
+#: admin/options.php:1946
+msgid "Continue Reading Label"
+msgstr "「続きを読む」ラベル"
+
+#: admin/options.php:1940
+msgid "Excerpt Suffix"
+msgstr "抜粋の接尾辞"
+
+#: admin/options.php:1934
+msgid "Excerpt Length (words)"
+msgstr "抜粋の長さ (単語数)"
+
+#: admin/options.php:1923
+msgid "Standard Posts in Categories/Archives"
+msgstr "カテゴリー/アーカイブの標準投稿"
+
+#: admin/options.php:1910
+msgid "Post formats always display full posts."
+msgstr "投稿フォーマットは常に投稿全文を表示します。"
+
+#: admin/options.php:1907
+msgid "Standard Posts On Homepage"
+msgstr "ホームページの標準投稿"
+
+#: admin/options.php:1900
+msgid "Choose meta information to show on single posts."
+msgstr "投稿に表示するメタ情報を選択してください。"
+
+#: admin/options.php:1844
+msgid "Display Comments"
+msgstr "コメントを表示"
+
+#: admin/options.php:1832 admin/options.php:1882
+msgid "Display Category"
+msgstr "カテゴリーを表示"
+
+#: admin/options.php:1826 admin/options.php:1876
+msgid "Display Time"
+msgstr "時間を表示"
+
+#: admin/options.php:1820 admin/options.php:1870
+msgid "Display Date"
+msgstr "日付を表示"
+
+#: admin/options.php:1814 admin/options.php:1864
+msgid "Display Author"
+msgstr "投稿者を表示"
+
+#: admin/options.php:1804
+msgid "Plain"
+msgstr "基本"
+
+#: admin/options.php:1777 admin/options.php:1781 admin/options.php:1785
+#: admin/options.php:1789 admin/options.php:1793
+msgid "Style %d"
+msgstr "スタイル%d"
+
+#: admin/options.php:1773
+msgid "No Styling"
+msgstr "スタイルを設定しない"
+
+#: admin/options.php:1770
+msgid "Post Images"
+msgstr "投稿の画像"
+
+#: admin/options.php:1746
+msgid "Fade"
+msgstr "フェード"
+
+#: admin/options.php:1746
+msgid "Slide"
+msgstr "スライド"
+
+#: admin/options.php:1736
+msgid "Insert custom text or basic HTML code that will appear in your footer. <br /> You can use HTML to insert links, images and special characters."
+msgstr "フッターに表示されるカスタムテキストや基本的な HTML コードを挿入してください。<br /> HTML を使って、リンクや画像、特殊文字を挿入できます。"
+
+#: admin/options.php:1735
+msgid "Custom Footer Text"
+msgstr "カスタムフッターテキスト"
+
+#: admin/options.php:1721
+msgid "Bordered"
+msgstr "枠線つき"
+
+#: admin/options.php:1721
+msgid "Clean"
+msgstr "クリーン"
+
+#: admin/options.php:1721
+msgid "No border"
+msgstr "枠線なし"
+
+#: admin/options.php:1713
+msgid "Bottom of page"
+msgstr "ページの下"
+
+#: admin/options.php:1711
+msgid "Back to Top Button"
+msgstr "「トップへ戻る」ボタン"
+
+#: admin/options.php:1705
+msgid "Always Hidden"
+msgstr "常に非表示"
+
+#: admin/options.php:1705
+msgid "Hide on Categories"
+msgstr "カテゴリーで非表示"
+
+#: admin/options.php:1705
+msgid "Hide on Pages"
+msgstr "固定ページで非表示"
+
+#: admin/options.php:1705
+msgid "Always Visible"
+msgstr "常に表示"
+
+#: admin/options.php:1703
+msgid "Page/Category Titles"
+msgstr "固定ページ/カテゴリータイトル"
+
+#: admin/options.php:1697 admin/options.php:2159 admin/options.php:2168
+msgid "Disable"
+msgstr "無効化"
+
+#: admin/options.php:1697
+msgid "Absolute"
+msgstr "絶対"
+
+#: admin/options.php:1688
+msgid "Numbered Pagination"
+msgstr "番号付きページネーション"
+
+#: admin/options.php:1681
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+#: admin/options.php:1671
+msgid "Paragraph Indentation"
+msgstr "段落インデント"
+
+#: admin/options.php:1665
+msgid "Justify"
+msgstr "両端揃え"
+
+#: admin/options.php:1663
+msgid "Text Alignment"
+msgstr "テキスト配置"
+
+#: admin/options.php:1611
+msgid "Headings"
+msgstr "見出し"
+
+#: admin/options.php:1436
+msgid "Blog Post Titles"
+msgstr "ブログ投稿タイトル"
+
+#: admin/options.php:1335
+msgid "Widget Title"
+msgstr "ウィジェット名"
+
+#: admin/options.php:1296
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: admin/options.php:1247
+msgid "The fonts under the <em>Preferred Theme Fonts</em> list are recommended because they have all the font weights used throughout the theme."
+msgstr "テーマを通じて使われるフォントのウェイトのすべてを含むため、<em>推奨テーマフォント</em>リスト内のフォントをおすすめします。"
+
+#: admin/options.php:1239 admin/options.php:1378 admin/options.php:1654
+msgid "Spacing"
+msgstr "間隔"
+
+#: admin/options.php:1232 admin/options.php:1371 admin/options.php:1427
+#: admin/options.php:1556 admin/options.php:1647
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: admin/options.php:1219 admin/options.php:1277 admin/options.php:1319
+#: admin/options.php:1358 admin/options.php:1414 admin/options.php:1459
+#: admin/options.php:1501 admin/options.php:1543 admin/options.php:1592
+#: admin/options.php:1634
+msgid "Lowercase"
+msgstr "小文字"
+
+#: admin/options.php:1219 admin/options.php:1277 admin/options.php:1319
+#: admin/options.php:1358 admin/options.php:1414 admin/options.php:1459
+#: admin/options.php:1501 admin/options.php:1543 admin/options.php:1592
+#: admin/options.php:1634
+msgid "Uppercase"
+msgstr "大文字"
+
+#: admin/options.php:1219 admin/options.php:1277 admin/options.php:1319
+#: admin/options.php:1358 admin/options.php:1414 admin/options.php:1459
+#: admin/options.php:1501 admin/options.php:1543 admin/options.php:1592
+#: admin/options.php:1634
+msgid "Capitalize"
+msgstr "先頭大文字"
+
+#: admin/options.php:1219 admin/options.php:1277 admin/options.php:1319
+#: admin/options.php:1358 admin/options.php:1414 admin/options.php:1459
+#: admin/options.php:1501 admin/options.php:1543 admin/options.php:1592
+#: admin/options.php:1634 admin/options.php:1746
+msgid "None"
+msgstr "なし"
+
+#: admin/options.php:1211 admin/options.php:1269 admin/options.php:1311
+#: admin/options.php:1350 admin/options.php:1406 admin/options.php:1451
+#: admin/options.php:1493 admin/options.php:1535 admin/options.php:1584
+#: admin/options.php:1626
+msgid "900 black"
+msgstr "900 black"
+
+#: admin/options.php:1211 admin/options.php:1269 admin/options.php:1311
+#: admin/options.php:1350 admin/options.php:1406 admin/options.php:1451
+#: admin/options.php:1493 admin/options.php:1535 admin/options.php:1584
+#: admin/options.php:1626
+msgid "800 extra-bold"
+msgstr "800 extra-bold"
+
+#: admin/options.php:1211 admin/options.php:1269 admin/options.php:1311
+#: admin/options.php:1350 admin/options.php:1406 admin/options.php:1451
+#: admin/options.php:1493 admin/options.php:1535 admin/options.php:1584
+#: admin/options.php:1626
+msgid "700 bold"
+msgstr "700 bold"
+
+#: admin/options.php:1211 admin/options.php:1269 admin/options.php:1311
+#: admin/options.php:1350 admin/options.php:1406 admin/options.php:1451
+#: admin/options.php:1493 admin/options.php:1535 admin/options.php:1584
+#: admin/options.php:1626
+msgid "600 semi-bold"
+msgstr "600 semi-bold"
+
+#: admin/options.php:1211 admin/options.php:1269 admin/options.php:1311
+#: admin/options.php:1350 admin/options.php:1406 admin/options.php:1451
+#: admin/options.php:1493 admin/options.php:1535 admin/options.php:1584
+#: admin/options.php:1626
+msgid "500 medium"
+msgstr "500 medium"
+
+#: admin/options.php:1211 admin/options.php:1269 admin/options.php:1311
+#: admin/options.php:1350 admin/options.php:1406 admin/options.php:1451
+#: admin/options.php:1493 admin/options.php:1535 admin/options.php:1584
+#: admin/options.php:1626
+msgid "400 regular"
+msgstr "400 regular"
+
+#: admin/options.php:1211 admin/options.php:1269 admin/options.php:1311
+#: admin/options.php:1350 admin/options.php:1406 admin/options.php:1451
+#: admin/options.php:1493 admin/options.php:1535 admin/options.php:1584
+#: admin/options.php:1626
+msgid "200 extra-light"
+msgstr "200 extra-light"
+
+#: admin/options.php:1211 admin/options.php:1269 admin/options.php:1311
+#: admin/options.php:1350 admin/options.php:1406 admin/options.php:1451
+#: admin/options.php:1493 admin/options.php:1535 admin/options.php:1584
+#: admin/options.php:1626
+msgid "100 thin"
+msgstr "100 thin"
+
+#: admin/options.php:1174
+msgid "Boxes"
+msgstr "ボックス"
+
+#: admin/options.php:1168
+msgid "Blocks"
+msgstr "ブロック"
+
+#: admin/options.php:1161
+msgid "Footer Text"
+msgstr "フッターテキスト"
+
+#: admin/options.php:1155
+msgid "Footer Background"
+msgstr "フッターの背景"
+
+#: admin/options.php:1148
+msgid "Opacity"
+msgstr "不透明度"
+
+#: admin/options.php:1137
+msgid "Angle"
+msgstr "角度"
+
+#: admin/options.php:1111 admin/options.php:1127
+msgid "Background %s Position"
+msgstr "%s背景の位置"
+
+#: admin/options.php:1101 admin/options.php:1117
+msgid "Background %s"
+msgstr "%s背景"
+
+#: admin/options.php:1089
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+#: admin/options.php:1060
+msgid "Header Text"
+msgstr "ヘッダーテキスト"
+
+#: admin/options.php:1054
+msgid "Header Background"
+msgstr "ヘッダー背景"
+
+#: admin/options.php:1047
+msgid "Secondary Accent"
+msgstr "アクセント2"
+
+#: admin/options.php:1031
+msgid "Right Sidebar Background"
+msgstr "右サイドバーの背景"
+
+#: admin/options.php:1025
+msgid "Left Sidebar Background"
+msgstr "サイドバーの背景"
+
+#: admin/options.php:1019 includes/setup.php:154
+msgid "Content Background"
+msgstr "コンテンツの背景"
+
+#: admin/options.php:1013 includes/setup.php:144
+msgid "Content Headings"
+msgstr "コンテンツの見出し"
+
+#: admin/options.php:1007
+msgid "Content Titles"
+msgstr "コンテンツのタイトル"
+
+#: admin/options.php:995
+msgid "Site Background"
+msgstr "サイトの背景"
+
+#: admin/options.php:952 admin/options.php:960 admin/options.php:968
+#: admin/options.php:976
+msgid "Text Area %d"
+msgstr "テキストエリア%d"
+
+#: admin/options.php:921 admin/options.php:1697 admin/options.php:2150
+msgid "Static"
+msgstr "静的"
+
+#: admin/options.php:919
+msgid "Box Appearance"
+msgstr "ボックスの外観"
+
+#: admin/options.php:912
+msgid "Joined"
+msgstr "結合"
+
+#: admin/options.php:903
+msgid "Full width"
+msgstr "全幅"
+
+#: admin/options.php:901
+msgid "Box Layout"
+msgstr "ボックスのレイアウト"
+
+#: admin/options.php:890
+msgid "The width is a percentage dependent on total site width and number of columns per row."
+msgstr "幅はサイト全体の幅と、一行に何カラムあるかに依存するパーセンテージの値です。"
+
+#: admin/options.php:889
+msgid "Box Height"
+msgstr "ボックスの高さ"
+
+#: admin/options.php:741
+msgid "Make icons clickable (linking to their respective pages)."
+msgstr "アイコンをクリックできるようにする (それぞれ対応するページにリンク)。"
+
+#: admin/options.php:734 admin/options.php:933
+msgid "Read More Button"
+msgstr "「続きを読む」ボタン"
+
+#: admin/options.php:727 admin/options.php:1909 admin/options.php:1925
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: admin/options.php:713 admin/options.php:838
+msgid "Section Description"
+msgstr "セクション説明"
+
+#: admin/options.php:706 admin/options.php:831
+msgid "Section Title"
+msgstr "セクションのタイトル"
+
+#: admin/options.php:682 admin/options.php:698
+msgid "Link"
+msgstr "リンク"
+
+#: admin/options.php:672 admin/options.php:688
+msgid "CTA Button"
+msgstr "CTA ボタン"
+
+#: admin/options.php:658
+msgid "Title"
+msgstr "タイトル"
+
+#: admin/options.php:656
+msgid "Caption"
+msgstr "キャプション"
+
+#: admin/options.php:649
+msgid " - No sliders defined - "
+msgstr " - スライダーが定義されていません - "
+
+#: admin/options.php:640
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: admin/options.php:633
+msgid "Slider Link"
+msgstr "スライダーのリンク"
+
+#: admin/options.php:627
+msgid "The default image can be replaced by setting a new banner image."
+msgstr "デフォルトの画像は、新しいバナー画像を設定することで置き換えることができます。"
+
+#: admin/options.php:621
+msgid "To create an advanced slider, use our <a href='%s' target='_blank'>Serious Slider</a> plugin or any other slider plugin."
+msgstr "高度なスライダーを作成するには、<a href='%s' target='_blank'>Serious Slider</a> プラグインまたは他のスライダープラグインを使用してください。"
+
+#: admin/options.php:617 admin/options.php:626
+msgid "Banner Image"
+msgstr "バナー画像"
+
+#: admin/options.php:615 admin/options.php:647
+msgid "Serious Slider"
+msgstr "Serious Slider"
+
+#: admin/options.php:603
+msgid "More Posts Label"
+msgstr "「さらに投稿を読み込む」のラベル"
+
+#: admin/options.php:512 admin/options.php:588 admin/options.php:619
+#: admin/options.php:727 admin/options.php:763 admin/options.php:764
+#: admin/options.php:782 admin/options.php:783 admin/options.php:801
+#: admin/options.php:802 admin/options.php:820 admin/options.php:821
+#: admin/options.php:851 admin/options.php:852 admin/options.php:953
+#: admin/options.php:954 admin/options.php:961 admin/options.php:962
+#: admin/options.php:969 admin/options.php:970 admin/options.php:977
+#: admin/options.php:978 admin/options.php:1713 admin/options.php:1851
+msgid "Disabled"
+msgstr "無効"
+
+#: admin/options.php:588
+msgid "Posts"
+msgstr "投稿"
+
+#: admin/options.php:588
+msgid "Static Page"
+msgstr "固定ページ"
+
+#: admin/options.php:580
+msgid "use a static page"
+msgstr "固定ページを使う"
+
+#: admin/options.php:580
+msgid "To activate the Landing Page, make sure to set the WordPress <strong>Front Page displays</strong> option to %s"
+msgstr "ランディングページを有効化するには、WordPress の<strong>フロントページの表示</strong>オプションが「%s」に設定されている必要があります。"
+
+#: admin/options.php:560
+msgid "Header Widget Alignment"
+msgstr "ヘッダーウィジェット配置"
+
+#: admin/options.php:553
+msgid "Header Widget Width"
+msgstr "ヘッダーウィジェット幅"
+
+#: admin/options.php:542 admin/options.php:2029
+msgid "Contained"
+msgstr "含まれる"
+
+#: admin/options.php:542 admin/options.php:2029
+msgid "Cropped"
+msgstr "切り抜き"
+
+#: admin/options.php:535 admin/options.php:2022 admin/options.php:2047
+msgid "Changing this value may require to recreate your thumbnails."
+msgstr "この値を変える場合、サムネイルを再作成する必要が出てきます。"
+
+#: admin/options.php:527
+msgid "Header Image Height"
+msgstr "ヘッダー画像の高さ"
+
+#: admin/options.php:477
+msgid "Show Tagline"
+msgstr "キャッチフレーズを表示"
+
+#: admin/options.php:471
+msgid "Logo & Site Title"
+msgstr "ロゴ & サイトタイトル"
+
+#: admin/options.php:471
+msgid "Logo"
+msgstr "ロゴ"
+
+#: admin/options.php:469
+msgid "Site Header Content"
+msgstr "サイトヘッダーコンテンツ"
+
+#: admin/options.php:463
+msgid "Menu Alignment"
+msgstr "メニューの配置"
+
+#: admin/options.php:462 admin/options.php:562 admin/options.php:1665
+msgid "Right"
+msgstr "右"
+
+#: admin/options.php:462 admin/options.php:562 admin/options.php:1665
+msgid "Left"
+msgstr "左"
+
+#: admin/options.php:455
+msgid "Menu Layout"
+msgstr "メニューの配置"
+
+#: admin/options.php:447
+msgid "Menu Position"
+msgstr "メニューの位置"
+
+#: admin/options.php:446
+msgid "Normal"
+msgstr "通常"
+
+#: admin/options.php:439
+msgid "Menu Height"
+msgstr "メニューの高さ"
+
+#: admin/options.php:429
+msgid "Fixed Menu"
+msgstr "固定メニュー"
+
+#: admin/options.php:399
+msgid "Footer Widgets Alignment"
+msgstr "フッターウィジェットの配置"
+
+#: admin/options.php:398 admin/options.php:1665
+msgid "Default"
+msgstr "デフォルト"
+
+#: admin/options.php:389
+msgid "3 Columns"
+msgstr "3カラム"
+
+#: admin/options.php:390
+msgid "4 Columns"
+msgstr "4カラム"
+
+#: admin/options.php:388
+msgid "2 Columns"
+msgstr "2カラム"
+
+#: admin/options.php:387
+msgid "1 Column"
+msgstr "1カラム"
+
+#: admin/options.php:386
+msgid "All in a row"
+msgstr "すべて一列に"
+
+#: admin/options.php:363
+msgid "Three columns"
+msgstr "3カラム"
+
+#: admin/options.php:359
+msgid "Two columns"
+msgstr "2カラム"
+
+#: admin/options.php:355
+msgid "One column"
+msgstr "1カラム"
+
+#: admin/options.php:329
+msgid "Site Width"
+msgstr "サイト幅"
+
+#: admin/options.php:323 admin/options.php:454 admin/options.php:903
+msgid "Boxed"
+msgstr "ボックス"
+
+#: admin/options.php:312
+msgid "Three columns, one sidebar on each side"
+msgstr "3カラム (サイドバーは左右に一つずつ)"
+
+#: admin/options.php:289
+msgid "Main Layout"
+msgstr "メインのレイアウト"
+
+#: admin/options.php:269
+msgid "Miscellaneous"
+msgstr "その他"
+
+#: admin/options.php:267 includes/comments.php:95 includes/comments.php:115
+msgid "Comments"
+msgstr "コメント"
+
+#: admin/options.php:266
+msgid "Excerpts"
+msgstr "抜粋"
+
+#: admin/options.php:263
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: admin/options.php:260 admin/options.php:2926
+msgid "Footer"
+msgstr "フッター"
+
+#: admin/options.php:256 includes/setup.php:60
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+#: admin/options.php:253
+msgid "Decorations"
+msgstr "装飾"
+
+#: admin/options.php:252
+msgid "Structure"
+msgstr "構造"
+
+#: admin/options.php:250
+msgid "Formatting"
+msgstr "フォーマット"
+
+#: admin/options.php:248
+msgid "Content Fonts"
+msgstr "コンテンツのフォント"
+
+#: admin/options.php:247
+msgid "Header Fonts"
+msgstr "見出しのフォント"
+
+#: admin/options.php:246 admin/options.php:1195
+msgid "General Font"
+msgstr "通常のフォント"
+
+#: admin/options.php:244 admin/options.php:586 admin/options.php:1186
+msgid "Featured Content"
+msgstr "注目コンテンツ"
+
+#: admin/options.php:243 admin/options.php:1180
+msgid "Text Areas"
+msgstr "テキストエリア"
+
+#: admin/options.php:242
+msgid "Featured Boxes 2"
+msgstr "おすすめボックス2"
+
+#: admin/options.php:241
+msgid "Featured Boxes"
+msgstr "おすすめボックス"
+
+#: admin/options.php:239 admin/options.php:612
+msgid "Slider"
+msgstr "スライダー"
+
+#: admin/options.php:238
+msgid "Settings"
+msgstr "設定"
+
+#: admin/options.php:236 admin/options.php:258
+msgid "Content"
+msgstr "コンテンツ"
+
+#: admin/options.php:235
+msgid "Menu"
+msgstr "メニュー"
+
+#: admin/options.php:232
+msgid "Other Layouts"
+msgstr "他のレイアウト"
+
+#: admin/options.php:231
+msgid "General Layout"
+msgstr "一般レイアウト"
+
+#: admin/options.php:221
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: admin/options.php:220
+msgid "Colors"
+msgstr "色"
+
+#: admin/options.php:219
+msgid "General"
+msgstr "一般"
+
+#: admin/options.php:218 admin/options.php:261 admin/options.php:570
+msgid "Landing Page"
+msgstr "ランディングページ"
+
+#: admin/options.php:217 admin/options.php:259 admin/options.php:2948
+msgid "Header"
+msgstr "ヘッダー"
+
+#: admin/options.php:216
+msgid "Layout"
+msgstr "レイアウト"
+
+#: admin/options.php:196 admin/options.php:215 admin/options.php:485
+msgid "Site Identity"
+msgstr "サイト基本情報"
+
+#: admin/options.php:189
+msgid "Header Image Settings."
+msgstr "ヘッダー画像の設定。"
+
+#: admin/options.php:188 admin/options.php:618
+msgid "Header Image"
+msgstr "ヘッダー画像"
+
+#: admin/options.php:180
+msgid "Background"
+msgstr "背景"
+
+#: admin/options.php:172
+msgid "Manage Theme Settings"
+msgstr "テーマの設定を管理する"
+
+#: admin/options.php:166
+msgid "Rate %s on WordPress.org"
+msgstr "WordPress.org で %s を評価"
+
+#: admin/options.php:154
+msgid "Browse the Forum"
+msgstr "フォーラムを閲覧する"
+
+#: admin/options.php:135
+msgid "Get Plus"
+msgstr "Plus 版を入手"
+
+#: admin/options.php:132
+msgid "About %s"
+msgstr "%s について"
+
+#: admin/main.php:108 admin/main.php:134 admin/main.php:138
+#: admin/options.php:142
+msgid "Upgrade to Plus"
+msgstr "Plus 版にアップグレード"
+
+#: admin/main.php:121
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: admin/main.php:107
+msgid "Theme Support"
+msgstr "テーマサポート"
+
+#: admin/main.php:90
+msgid "Bravada settings have been reset successfully."
+msgstr "Bravada の設定をリセットしました。"
+
+#: admin/main.php:78
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするための権限がありません。"
+
+#: admin/main.php:106
+msgid "Bravada Homepage"
+msgstr "Bravada ホームページ"
+
+#: admin/main.php:61
+msgid "Reset Bravada Settings to Defaults?"
+msgstr "Bravada の設定をデフォルトに戻しますか ?"
+
+#: includes/setup.php:58 sidebar-left.php:18
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: header.php:73
+msgid "Top Menu"
+msgstr "トップメニュー"
+
+#: includes/core.php:398
+msgid "Semantic Personal Publishing Platform"
+msgstr "マンティックなパーソナルパブリッシングプラットフォーム"
+
+#: image.php:38
+msgid "Published in"
+msgstr "カテゴリー:"
+
+#: cryout/tgmpa-class.php:2498
+msgid "Minimum required version:"
+msgstr "最低必須バージョン:"
+
+#: admin/main.php:69
+msgid "Bravada Theme"
+msgstr "Bravada Theme"
+
+#: admin/main.php:97
+msgid "Bravada Theme v%1$s by %2$s"
+msgstr "Bravada Theme v%1$s by %2$s"
+
+#: includes/core.php:484
+msgid "Home"
+msgstr "ホーム"
+
+#: admin/options.php:649
+msgid " - Please install, activate or update Serious Slider plugin - "
+msgstr " - Serious Slider プラグインをインストール、有効化、または更新してください - "
+
+#: admin/options.php:1954
+msgid "'Comments Are Closed' Text"
+msgstr "「コメントは締め切りました」テキスト"
+
+#: admin/options.php:1761
+msgid "Add Search to Footer Menu"
+msgstr "検索ボックスをフッターメニューに追加"
+
+#: admin/options.php:1755
+msgid "Add Search to Main Menu"
+msgstr "メインメニューに検索を追加する"
+
+#: admin/options.php:851 admin/options.php:852
+msgid "All Categories"
+msgstr "カテゴリー一覧"
+
+#: admin/options.php:921 admin/options.php:2150
+msgid "Animated"
+msgstr "アニメーション"
+
+#: admin/options.php:912
+msgid "Apart"
+msgstr "分離"
+
+#: includes/core.php:488
+msgid "Articles posted by"
+msgstr "投稿者:"
+
+#: admin/options.php:2116
+msgid "Autoscroll"
+msgstr "自動スクロール"
+
+#: admin/options.php:181
+msgid "Background Settings."
+msgstr "背景の設定。"
+
+#: admin/options.php:753 admin/options.php:772 admin/options.php:791
+#: admin/options.php:810
+msgid "Block %d"
+msgstr "ブロック%d"
+
+#: admin/options.php:725
+msgid "Blocks Content"
+msgstr "ブロックコンテンツ"
+
+#: admin/options.php:910
+msgid "Box Stacking"
+msgstr "ボックススタッキング"
+
+#: admin/options.php:850
+msgid "Boxes Content"
+msgstr "ボックスの内容"
+
+#: admin/options.php:873
+msgid "Boxes Per Row"
+msgstr "一行ごとのボックスの数"
+
+#: admin/options.php:398 admin/options.php:462 admin/options.php:562
+#: admin/options.php:1665
+msgid "Center"
+msgstr "中央"
+
+#: admin/options.php:1962
+msgid "Comment Date Format"
+msgstr "コメント日時のフォーマット"
+
+#: admin/options.php:735
+msgid "Configure the 'Read More' link text."
+msgstr "「続きを読む」リンクのテキストを設定してください。"
+
+#: admin/options.php:254
+msgid "Content Images"
+msgstr "コンテンツ画像"
+
+#: admin/options.php:943
+msgid "Content Length (words)"
+msgstr "コンテンツの長さ (単語)"
+
+#: admin/options.php:572
+msgid "Disabled (use WordPress homepage)"
+msgstr "無効化 (WordPress ホームページを使用)"
+
+#: admin/options.php:1838 admin/options.php:1888
+msgid "Display Tags"
+msgstr "タグを表示"
+
+#: admin/options.php:2076
+msgid "Display in Left Sidebar"
+msgstr "左サイドバーに表示"
+
+#: admin/options.php:2082
+msgid "Display in Right Sidebar"
+msgstr "右サイドバーに表示"
+
+#: includes/loop.php:209
+msgid "Edit %s"
+msgstr "%sを編集"
+
+#: admin/options.php:471
+msgid "Empty"
+msgstr "空"
+
+#: admin/options.php:572
+msgid "Enabled"
+msgstr "有効"
+
+#: admin/options.php:240
+msgid "Featured Icon Blocks"
+msgstr "おすすめアイコンブロック"
+
+#: admin/options.php:383
+msgid "Footer Widgets Columns"
+msgstr "フッターウィジェットの列"
+
+#: admin/options.php:727
+msgid "Full Content"
+msgstr "全文"
+
+#: admin/options.php:1909 admin/options.php:1917 admin/options.php:1925
+msgid "Full Post"
+msgstr "投稿全文"
+
+#: admin/options.php:543
+msgid "Header Image Behaviour"
+msgstr "ヘッダー画像の動作"
+
+#: admin/options.php:1713
+msgid "In footer"
+msgstr "フッター内"
+
+#: admin/options.php:1917
+msgid "Inherit"
+msgstr "継承"
+
+#. translators: 1: install status, 2: update status
+#: cryout/tgmpa-class.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#: includes/setup.php:174
+msgid "L"
+msgstr "L"
+
+#: includes/comments.php:97 includes/comments.php:117
+msgid "Leave a comment"
+msgstr "コメントをどうぞ"
+
+#: admin/options.php:336
+msgid "Left Sidebar Width"
+msgstr "左サイドバーの幅"
+
+#: includes/setup.php:168
+msgid "M"
+msgstr "M"
+
+#: includes/comments.php:147 includes/comments.php:148
+msgid "Name"
+msgstr "名前"
+
+#: admin/options.php:727
+msgid "No Text"
+msgstr "テキストがありません"
+
+#: cryout/tgmpa-class.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "インストール、更新、有効化するプラグインはありません。"
+
+#: content/content-notfound.php:12
+msgid "No search results for: <em>%s</em>"
+msgstr "一致する検索結果はありません: <strong>%s</strong>"
+
+#: admin/options.php:866
+msgid "Number of Boxes"
+msgstr "ボックスの数"
+
+#: cryout/tgmpa-class.php:2547
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: admin/options.php:1802
+msgid "Post Captions"
+msgstr "投稿の題名"
+
+#: admin/options.php:222
+msgid "Post Information"
+msgstr "投稿の情報"
+
+#: admin/options.php:352
+msgid "Posts Layout"
+msgstr "投稿のレイアウト"
+
+#: admin/options.php:1041
+msgid "Primary Accent"
+msgstr "アクセント1"
+
+#: includes/loop.php:246
+msgid "Read more"
+msgstr "続きを読む"
+
+#: admin/options.php:148
+msgid "Read the Docs"
+msgstr "ドキュメントを読む"
+
+#: cryout/tgmpa-class.php:2273
+msgid "Recommended"
+msgstr "推奨"
+
+#: admin/main.php:124
+msgid "Reset to Defaults"
+msgstr "デフォルトに戻す"
+
+#: admin/options.php:343
+msgid "Right Sidebar Width"
+msgstr "右サイドバーの幅"
+
+#: includes/setup.php:162
+msgid "S"
+msgstr "S"
+
+#: admin/options.php:255
+msgid "Search Box Locations"
+msgstr "検索ボックスの位置"
+
+#: admin/options.php:650
+msgid "Select the desired slider from the list. Sliders can be administered in the dashboard."
+msgstr "設置したいスライダーをリストから選んでください。スライダーはダッシュボードから管理できます。"
+
+#: admin/options.php:1956
+msgid "Show"
+msgstr "表示"
+
+#: admin/options.php:1001 includes/setup.php:149
+msgid "Site Text"
+msgstr "サイトテキスト"
+
+#: admin/options.php:471 admin/options.php:1254
+msgid "Site Title"
+msgstr "サイトのタイトル"
+
+#: admin/options.php:1729
+msgid "Size Emphasis"
+msgstr "サイズの強調"
+
+#: cryout/tgmpa-class.php:2548
+msgid "Source"
+msgstr "ソース"
+
+#: admin/options.php:1915
+msgid "Sticky Posts on Homepage"
+msgstr "ホームページの固定投稿"
+
+#: admin/options.php:1719
+msgid "Tables Style"
+msgstr "テーブルのスタイル"
+
+#: admin/options.php:1727
+msgid "Tags Cloud Appearance"
+msgstr "タグクラウドの外観"
+
+#: admin/options.php:666 admin/options.php:674 admin/options.php:690
+#: admin/options.php:1095
+msgid "Text"
+msgstr "テキスト"
+
+#: cryout/tgmpa-class.php:388 cryout/tgmpa-class.php:2952
+#: includes/tgmpa.php:121
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下のプラグインを有効化しました:"
+
+#: admin/options.php:321
+msgid "Theme alignment"
+msgstr "テーマの揃え"
+
+#: cryout/tgmpa-class.php:396 includes/tgmpa.php:129
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "インストール、更新、有効化可能な必須または推奨プラグインがあります。"
+
+#: admin/options.php:308
+msgid "Three columns, sidebars on the left"
+msgstr "3カラム、左サイドバー"
+
+#: admin/options.php:304
+msgid "Three columns, sidebars on the right"
+msgstr "3カラム、右サイドバー"
+
+#: sidebar-left.php:22 sidebar-right.php:22
+msgid "To hide this sidebar, switch to a different Layout via the <a href=\"%s\">Theme Customizations</a>."
+msgstr "このサイドバーを隠すには、<a href=\"%s\">テーマのカスタマイズ</a>から違うレイアウトに切り替えてください。"
+
+#: admin/options.php:300
+msgid "Two columns, sidebar on the left"
+msgstr "2カラム、左サイドバー"
+
+#: admin/options.php:296
+msgid "Two columns, sidebar on the right"
+msgstr "2カラム、右サイドバー"
+
+#: admin/options.php:1729
+msgid "Uniform Boxes"
+msgstr "一様のボックス"
+
+#: cryout/tgmpa-class.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: cryout/tgmpa-class.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#: admin/options.php:2054
+msgid "Use Featured Images in Header"
+msgstr "ヘッダーでアイキャッチ画像を使う"
+
+#: admin/options.php:616
+msgid "Use Shortcode"
+msgstr "ショートコードを使う"
+
+#: includes/loop.php:115 includes/loop.php:140
+msgid "View all posts by %s"
+msgstr "%s のすべての投稿を表示"
+
+#: admin/options.php:323 admin/options.php:454
+msgid "Wide"
+msgstr "幅広"
+
+#: admin/options.php:1391
+msgid "Widget Content"
+msgstr "ウィジェットのコンテンツ"
+
+#: admin/options.php:249
+msgid "Widget Fonts"
+msgstr "ウィジェットのフォント"
+
+#: admin/options.php:1804
+msgid "With Background"
+msgstr "背景付き"
+
+#: admin/options.php:1804
+msgid "With Border"
+msgstr "枠線付き"
+
+#: includes/setup.php:180
+msgid "XL"
+msgstr "XL"
+
+#: sidebar-left.php:21 sidebar-right.php:21
+msgid "You currently have no widgets set in this sidebar. You can add widgets via the <a href=\"%s\">Dashboard</a>."
+msgstr "今現在このサイドバーに設定されているウィジェットはありません。<a href=\"%s\">ダッシュボード</a>からウィジェットを追加してください。"
+
+#. translators: 1: date, 2: time
+#: includes/comments.php:42
+msgid "at"
+msgstr "@"
+
+#: admin/options.php:1744
+msgid "Article Animation on Scroll"
+msgstr "スクロール時の投稿アニメーション"
+
+#: admin/options.php:1211 admin/options.php:1269 admin/options.php:1311
+#: admin/options.php:1350 admin/options.php:1406 admin/options.php:1451
+#: admin/options.php:1493 admin/options.php:1535 admin/options.php:1584
+#: admin/options.php:1626
+msgid "300 lighter"
+msgstr "300 lighter"
+
+#: admin/options.php:1857
+msgid "Choose meta information to show on post lists."
+msgstr "投稿一覧に表示するメタ情報を選択してください。"
+
+#: admin/options.php:1569
+msgid "Single Post Metas"
+msgstr "個別投稿メタ"
+
+#: admin/options.php:265
+msgid "Single Metas"
+msgstr "個別メタ"
+
+#: admin/options.php:1066
+msgid "Side Menu Text"
+msgstr "サイドメニューテキスト"
+
+#: admin/options.php:1072
+msgid "Side Menu Background"
+msgstr "サイドメニュー背景"
+
+#: admin/options.php:641
+msgid "Enter shortcode provided by slider plugin. The plugin will be responsible for the slider's appearance."
+msgstr "スライダープラグインが提供するショートコードを入力してください。スライダーの外観はプラグインにより設定されます。"
+
+#: admin/options.php:292
+msgid "One column (no sidebars)"
+msgstr "1カラム (サイドバーなし)"
+
+#: admin/options.php:1721
+msgid "Striped"
+msgstr "Striped"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "http://www.cryoutcreations.eu"
+msgstr "http://www.cryoutcreations.eu"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Cryout Creations"
+msgstr "Cryout Creations"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "http://www.cryoutcreations.eu/wordpress-themes/bravada"
+msgstr "http://www.cryoutcreations.eu/wordpress-themes/bravada"

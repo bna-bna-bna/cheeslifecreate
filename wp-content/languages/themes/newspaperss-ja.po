@@ -1,0 +1,1384 @@
+# Translation of Themes - Newspaperss in Japanese
+# This file is distributed under the same license as the Themes - Newspaperss package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-10 14:00:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Newspaperss\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Newspaperss is a perfect WordPress theme for magazines, personal blogs, newspaperss, product reviews, content publishers or even newspaperss can be used for niche sites with curated contents.The theme is designed with the “mobile first” design, meaning it was designed for mobile from the beginning and was adapted for bigger screen afterward which results in a beautiful experience for the users, on all devices. It also comes with a Homepage with 4 custom Post widgets."
+msgstr "Newspaperss は、雑誌、個人ブログ、新聞社、製品レビュー、コンテンツパブリッシャーにぴったりな WordPress テーマです。さらに、キュレーションされたコンテンツを持つニッチなサイトにも使用できます。テーマは「モバイルファースト」デザインで設計されています。つまり、最初はモバイル用に設計され、その後大画面用に調整されたことを意味しています。これにより、すべての端末上でユーザーのための美しい経験を作り出すことができました。また、4つのカスタム投稿ウィジェットを含むホームページが付属しています。"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Newspaperss"
+msgstr "Newspaperss"
+
+#: inc/customizer.php:64
+msgid "Under slider widgets area"
+msgstr "スライダー下部ウィジェットエリア"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/welcome/sections/getting-started.php:32
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "WordPress カスタマイザーを利用してテーマのあらゆる部分を簡単にカスタマイズできます。"
+
+#: inc/welcome/sections/support.php:15
+msgid "Leave Us Review"
+msgstr "レビューを残す"
+
+#: inc/welcome/welcome-screen.php:80
+msgid "Support Us"
+msgstr "応援お願いします"
+
+#: inc/welcome/sections/getting-started.php:30
+msgid "Go to the Customizer"
+msgstr "カスタマイザーへ移動"
+
+#: inc/welcome/sections/support.php:19
+msgid "Translate Newspaperss"
+msgstr "Newspaperss を翻訳してください"
+
+#: inc/welcome/sections/support.php:10
+msgid "Are You a Helpful Person?"
+msgstr "お手伝いいただけませんか ?"
+
+#: inc/welcome/sections/getting-started.php:35
+msgid "Start Customizing %s"
+msgstr "%s のカスタマイズをスタート"
+
+#: inc/welcome/sections/support.php:24
+msgid "Translate %s"
+msgstr "%s を翻訳"
+
+#: inc/welcome/sections/support.php:21
+msgid "Help us to Translate newspaperss in your language"
+msgstr "あなたの言語に Newspaperss を翻訳するのを手伝ってください。"
+
+#: inc/welcome/sections/support.php:12
+msgid "we really appreciate if you could leave a review. By spreading the love, we can create even greater free stuff in the future!"
+msgstr "レビューを残していただければ幸いです。このプラグインを気に入っていただいていることを広めることで、将来さらにすばらしい無料プロダクトを作ることができます !"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:475
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:480
+msgid "No File Selected"
+msgstr "ファイルが選択されていません"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:488
+msgid "Change File"
+msgstr "ファイルを変更"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:490
+msgid "Add File"
+msgstr "ファイルを追加"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:95
+msgid "row"
+msgstr "行"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr "ページを選択"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:350
+msgid "Initial"
+msgstr "初期設定"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:365
+msgid "Lowercase"
+msgstr "小文字"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:364
+msgid "Uppercase"
+msgstr "大文字"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:363
+msgid "Capitalize"
+msgstr "先頭大文字"
+
+#: inc/customizer/fields.php:455 inc/customizer/fields.php:541
+#: inc/customizer/fields.php:607
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:362
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:382
+msgid "None"
+msgstr "なし"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:359
+msgid "Text Transform"
+msgstr "文字の変形"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:275
+msgid "Limit: %s rows"
+msgstr "上限: %s行"
+
+#: inc/kirki/kirki-packages/control-dimension/src/Control/Dimension.php:67
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:74
+msgid "Invalid Value"
+msgstr "無効な値"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:184
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:182
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:181
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:179
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:174
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:169
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:164
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:162
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:73
+msgid "Height"
+msgstr "高さ"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr "サイズ"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr "フォントスタイル"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:443
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:448
+msgid "No Image Selected"
+msgstr "画像が選択されていません"
+
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:85
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:114
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:453
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:485
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:510
+msgid "Remove"
+msgstr "削除"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:458
+msgid "Add Image"
+msgstr "画像を追加"
+
+#: inc/customizer/sections.php:80
+msgid "Color"
+msgstr "色"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:68
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:353
+msgid "Right"
+msgstr "右"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:67
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:351
+msgid "Left"
+msgstr "左"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr "下"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:63
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:407
+msgid "Letter Spacing"
+msgstr "文字間隔"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:61
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:402
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr "フォントの太さ"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:59
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:323
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:274
+msgid "Font Family"
+msgstr "フォントファミリー"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:161
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr "中央下"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:159
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr "中央上"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:164
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr "右下"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:163
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr "右中央"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:162
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr "右上"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:158
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr "左下"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:157
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr "左中央"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:156
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr "左上"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:222
+msgid "Background Attachment"
+msgstr "背景スクロール"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:228
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:119
+msgid "Background Repeat"
+msgstr "背景の繰り返し"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:124
+msgid "Repeat All"
+msgstr "すべて繰り返し"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:103
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:84
+msgid "Background Color"
+msgstr "背景色"
+
+#: inc/customizer/fields.php:150
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/customizer/fields.php:149
+msgid "vk"
+msgstr "vk"
+
+#: inc/customizer/fields.php:148
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/fields.php:147
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer/fields.php:145
+msgid "skype"
+msgstr "skype"
+
+#: inc/customizer/fields.php:144
+msgid "google plus"
+msgstr "google+"
+
+#: inc/customizer/fields.php:143
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/fields.php:142
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/customizer/fields.php:141
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/fields.php:137
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/customizer/fields.php:457 inc/customizer/fields.php:543
+#: inc/customizer/fields.php:609
+msgid "ID"
+msgstr "ID"
+
+#: inc/customizer/fields.php:153
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customizer/fields.php:152
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/fields.php:151
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/kirki/kirki-packages/compatibility/src/deprecated/functions.php:20
+msgid "%1$s or %2$s"
+msgstr "%1$s または %2$s"
+
+#: inc/kirki/kirki-packages/compatibility/src/Kirki.php:191
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "customize_register にKirki のフィールドを追加しないでください。直接追加するか、または「 init 」に追加してください。"
+
+#. translators: The field ID where the error occurs.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:520
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:531
+#: inc/kirki/kirki-packages/module-css/src/CSS.php:133
+#: inc/kirki/kirki-packages/module-css/src/CSS.php:144
+#: inc/kirki/kirki-packages/module-postmessage/src/Postmessage.php:69
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "%s フィールドの \"output\" が不正なフォーマットになっています。\"output\" 引数は配列の配列として定義してください。"
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:394
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "%s フィールドの \"partial_refresh\" が不正な入力となっています。"
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:278
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "%1$s フィールドの設定が定義されていません。追加方法の詳細は %2$s を参照してください。"
+
+#. translators: %s represents the field ID where the error occurs.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:267
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "%s フィールドのタイプミス - settings ではなく setting"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:427
+msgid "Margin Bottom"
+msgstr "下マージン"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:422
+msgid "Margin Top"
+msgstr "マージントップ"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:385
+msgid "Overline"
+msgstr "上線"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:379
+msgid "Text Decoration"
+msgstr "テキスト装飾"
+
+#: inc/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr "オン"
+
+#: inc/customizer/sections.php:162
+msgid "Footer Copyright options "
+msgstr "フッターコピーライトーオプション"
+
+#: inc/customizer/sections.php:148
+msgid "Page settings "
+msgstr "固定ページ設定"
+
+#: inc/customizer/sections.php:139
+msgid "Single Post settings"
+msgstr "個別投稿設定"
+
+#: inc/customizer/sections.php:109
+msgid "Site Layout "
+msgstr "サイトレイアウト"
+
+#: inc/customizer/sections.php:102
+msgid "Background color "
+msgstr "背景色"
+
+#: inc/customizer/sections.php:27
+msgid "Top Header Settings"
+msgstr "トップヘッダー設定"
+
+#: inc/customizer/panels.php:43
+msgid "Header settings"
+msgstr "ヘッダー設定"
+
+#: inc/customizer/panels.php:37
+msgid "General settings"
+msgstr "一般設定"
+
+#: inc/customizer/fields.php:200
+msgid "Header background color"
+msgstr "ヘッダー背景色"
+
+#: inc/customizer/fields.php:170
+msgid "Header Layout"
+msgstr "ヘッダーレイアウト"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Ubuntu, translate this to 'off'. Do not translate into your own language.
+#: functions.php:306
+msgctxt "Ubuntu font: on or off"
+msgid "on"
+msgstr "オン"
+
+#: functions.php:32
+msgid "Top bar menu"
+msgstr "トップバーメニュー"
+
+#: functions/woo-hooks.php:52
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "ホーム"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s COMMENTS"
+msgid_plural "%1$s COMMENTS"
+msgstr[0] "%1$s コメント"
+
+#: parts/site-info.php:19
+msgid "Theme by %s"
+msgstr "Theme by %s"
+
+#. Template Name of the theme
+msgid "Page with No sidebar"
+msgstr "サイドバーのないページ"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr "単語間隔"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:882
+msgid "Google Fonts"
+msgstr "Google フォント"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:877
+msgid "Standard Fonts"
+msgstr "標準フォント"
+
+#: inc/customizer/panels.php:69
+msgid "Footer settings"
+msgstr "フッター設定"
+
+#: inc/customizer/panels.php:58
+msgid "Page settings"
+msgstr "固定ページ設定"
+
+#: inc/customizer/panels.php:53
+msgid "Post settings"
+msgstr "投稿設定"
+
+#: inc/customizer/fields.php:807
+msgid "Change font-page section title and widgets Title color"
+msgstr "フォントの変更-ページセクションのタイトルとウィジェットのタイトルの色"
+
+#: inc/customizer/fields.php:690
+msgid "Flavor Color"
+msgstr "フレーバーカラー"
+
+#: inc/customizer/fields.php:666 inc/customizer/fields.php:914
+msgid "Layout Sidebar"
+msgstr "レイアウトサイドバー"
+
+#: inc/customizer/fields.php:647 inc/customizer/fields.php:902
+msgid "Post Layout"
+msgstr "投稿レイアウト"
+
+#: inc/customizer/fields.php:633 index.php:35
+msgid "Latest post"
+msgstr "最新の投稿"
+
+#: inc/customizer/fields.php:619
+msgid "On/Off Auto Play"
+msgstr "自動再生のオン/オフ"
+
+#: inc/customizer/fields.php:576
+msgid "Slide to show in row"
+msgstr "行に表示するスライド"
+
+#: functions/hooks.php:286
+msgid "For add Header Image => Page => Edit  and Set featured image"
+msgstr "add ヘッダーイメージの場合 = > Page = > 機能イメージの編集と設定"
+
+#: inc/widgets/recent-posts-single.php:21
+msgid "(Recent Post) Displays latest posts or posts from a choosen category. "
+msgstr "(最近の投稿)選ばれたカテゴリから最新の投稿または投稿を表示します "
+
+#: inc/widgets/recent-posts-single.php:19
+msgid "&hearts; Newspaperss - Recent Post"
+msgstr "&hearts; Newspaperss - 最新の投稿"
+
+#: inc/widgets/list-post-blog.php:22
+msgid "&hearts; Newspaperss - Blog List"
+msgstr "&hearts; Newspaperss - ブログリスト"
+
+#: inc/widgets/list-post-blog.php:19
+msgid "(BLOG POST LIST STYLE ) Displays latest posts or posts from a choosen category"
+msgstr "(ブログ投稿リストスタイル)選ばれたカテゴリから最新の投稿または投稿を表示します"
+
+#: inc/widgets/latest-posts-news.php:182
+#: inc/widgets/recent-posts-single.php:123
+msgid "News style"
+msgstr "ニュース形式"
+
+#: inc/widgets/latest-posts-news.php:22
+msgid "&hearts; Newspaperss - Blog News"
+msgstr "&hearts; Newspaperss - ブログニュース"
+
+#: inc/widgets/latest-post-blogbig.php:154
+#: inc/widgets/latest-posts-news.php:204 inc/widgets/list-post-blog.php:152
+#: inc/widgets/recent-posts-single.php:145
+msgid "Hide sticky posts."
+msgstr "固定記事を隠す"
+
+#: inc/widgets/latest-post-blogbig.php:149
+#: inc/widgets/latest-posts-news.php:188 inc/widgets/list-post-blog.php:147
+#: inc/widgets/recent-posts-single.php:129
+msgid "Select a post category"
+msgstr "投稿カテゴリを選択"
+
+#: inc/widgets/latest-post-blogbig.php:22
+msgid "&hearts; Newspaperss - Blog Classic"
+msgstr "&hearts; Newspaperss - クラシックブログ"
+
+#: inc/welcome/welcome-screen.php:79
+msgid "Actions recommended"
+msgstr "おすすめのアクション"
+
+#: inc/welcome/sections/actions-required.php:30
+msgid "Hooray! There are no recommended actions for you right now."
+msgstr "おすすめのアクションはありません。"
+
+#: inc/welcome/sections/actions-required.php:18
+msgid "If you want to create unique homepage, create the new page first, set the template \"Homepage\" and save the page. Then please go to Settings -> Reading and switch \"Front page displays\" to \"A static page\" and select the page you created before."
+msgstr "独自のホームページを作成する場合は、最初に新しいページを作成し、テンプレート「ホームページ」を設定してページを保存します。 次に、設定 - >閲覧に行き、 \"フロントページの表示\"を \"固定ページ\"に切り替え、作成したページを選択してください。"
+
+#: inc/welcome/sections/actions-required.php:17
+msgid "Switch \"Front page displays\" to \"A static page\" "
+msgstr "「フロントページ表示」を「固定ページ」に切り替える"
+
+#: inc/welcome/sections/actions-required.php:12
+msgid "Keep up with %s's recommended actions"
+msgstr "%s さんのおすすめを見る"
+
+#: inc/customizer.php:57
+msgid "Home page Sidebar"
+msgstr "全体サイドバー"
+
+#: inc/customizer.php:45
+msgid "Header advertising area"
+msgstr "ヘッダー広告エリア"
+
+#: inc/customizer/sections.php:157
+msgid "Footer Widgets options "
+msgstr "フッターウィジェットオプション"
+
+#: inc/customizer/sections.php:123
+msgid "Site Color options "
+msgstr "テーマカラーオプション"
+
+#: inc/customizer/sections.php:116
+msgid "Site typography "
+msgstr "文字設定"
+
+#: inc/customizer/sections.php:132
+msgid "categories-archive-blog etc. page options "
+msgstr "カテゴリーアーカイブなどのオプション"
+
+#: inc/customizer/sections.php:73
+msgid "Latest post Section"
+msgstr "新着記事エリア"
+
+#: inc/customizer/sections.php:60
+msgid "Slider and Right post"
+msgstr "スライダーと右側の記事"
+
+#: inc/customizer/sections.php:35
+msgid "Logo and header layout"
+msgstr "ロゴとヘッダーのレイアウト"
+
+#: inc/customizer/sections.php:42
+msgid "Main Menu Styling"
+msgstr "メインメニュー設定"
+
+#: inc/customizer/sections.php:50
+msgid "Sub-header or page title"
+msgstr "サブヘッダー（ページタイトル）"
+
+#: inc/customizer/panels.php:48
+msgid "Home page options"
+msgstr "全体設定"
+
+#: inc/customizer/fields.php:1131
+msgid "4 widgets"
+msgstr "4 カラム"
+
+#: inc/customizer/fields.php:1130
+msgid "3 widgets"
+msgstr "3 カラム"
+
+#: inc/customizer/fields.php:1129
+msgid "2 widgets"
+msgstr "2 カラム"
+
+#: inc/customizer/fields.php:1194
+msgid "Copyright background color"
+msgstr "コピーライトの背景色"
+
+#: inc/customizer/fields.php:1166
+msgid "Widget title Color"
+msgstr "ウィジェットタイトルの色"
+
+#: inc/customizer/fields.php:1215
+msgid "Copyright Text color"
+msgstr "コピーライトの文字色"
+
+#: inc/customizer/panels.php:30
+msgid "About Theme"
+msgstr "テーマについて"
+
+#: inc/customizer/fields.php:1145
+msgid "Widget section Background Color"
+msgstr "ウィジェットエリアの背景色"
+
+#: inc/customizer/fields.php:1139
+msgid "Add Widgtes"
+msgstr "ウィジェットを追加する"
+
+#: inc/customizer/fields.php:1128
+msgid "1 widgets"
+msgstr "1 カラム"
+
+#: inc/customizer/fields.php:1122
+msgid "Displaying Widgets in a row"
+msgstr "ウィジェット表示の分割数"
+
+#: inc/customizer/fields.php:1109
+msgid "sticky footer on/off"
+msgstr "固定フッターのオン/オフ"
+
+#: inc/customizer/fields.php:1082
+msgid "Page title text Color"
+msgstr "固定ページタイトルの文字色"
+
+#: inc/customizer/fields.php:1070
+msgid "Hide/Show Page Header"
+msgstr "固定ページヘッダの表示/非表示"
+
+#: inc/customizer/fields.php:1045 parts/related-post.php:2
+msgid "You Might Also Like"
+msgstr "こちらの記事はいかがですか？"
+
+#: inc/customizer/fields.php:1043
+msgid "Related Post title"
+msgstr "関連記事タイトル"
+
+#: inc/customizer/fields.php:1031
+msgid "Related Post"
+msgstr "関連記事"
+
+#: inc/customizer/fields.php:965
+msgid "Hide/Show Author"
+msgstr "著者の表示/非表示"
+
+#: inc/customizer/fields.php:946
+msgid "Hide/Show Breadcrumb"
+msgstr "パンくずリストの表示/非表示"
+
+#: inc/customizer/fields.php:955
+msgid "Hide/Show Category"
+msgstr "カテゴリの表示/非表示"
+
+#: inc/customizer/fields.php:940
+msgid "Meta data Hide/Show option "
+msgstr "メタデータの表示/非表示オプション"
+
+#: inc/customizer/fields.php:1267
+msgid "Gradient color"
+msgstr "グラデーションの色"
+
+#: inc/customizer/fields.php:836
+msgid "enabled/disabled Header"
+msgstr "ヘッダの使用/不使用"
+
+#: inc/customizer/fields.php:897
+msgid "Layout options"
+msgstr "レイアウトオプション"
+
+#: inc/customizer/fields.php:867
+msgid "Sub-header text Color"
+msgstr "サブヘッダの文字色"
+
+#: inc/customizer/fields.php:468
+msgid "Slider content background color"
+msgstr "スライダーの背景色"
+
+#: inc/customizer/fields.php:487
+msgid "Slider content Color "
+msgstr "スライダーの文字色"
+
+#: inc/customizer/fields.php:492
+msgid "Category color"
+msgstr "カテゴリの色"
+
+#: inc/customizer/fields.php:519
+msgid "Top Post (appear in slider right side)"
+msgstr "最初の投稿（スライダーの右側に表示）"
+
+#: header.php:50
+msgid "Add a Primary Menu"
+msgstr "プライマリーメニューを追加"
+
+#: functions.php:403
+msgid "Home page sidebar"
+msgstr "全体ページのサイドバー"
+
+#: functions.php:395 inc/customizer.php:51
+msgid "Home page widgets area"
+msgstr "全体ページのウィジェットエリア"
+
+#: functions.php:387
+msgid "Header advertising area "
+msgstr "ヘッダー広告エリア"
+
+#: functions.php:380
+msgid "Widget Area for the Footer"
+msgstr "フッター用ウィジェットエリア"
+
+#: home-part/part-featured.php:13 inc/customizer/fields.php:569
+msgid "Featured Story"
+msgstr "注目"
+
+#: home-part/latest-post.php:22
+msgid "Click To Add Home Widgets"
+msgstr "ホームウィジェットを追加"
+
+#: inc/customizer/fields.php:18 inc/customizer/fields.php:26
+#: inc/welcome/sections/getting-started.php:42
+msgid "Upgrade To Pro"
+msgstr "プロ版にアップグレード"
+
+#: inc/customizer/fields.php:34
+msgid "Read the documentation"
+msgstr "ドキュメンテーションを読む"
+
+#: inc/customizer/fields.php:51
+msgid "Disable Top Header"
+msgstr "トップヘッダーを使用しない"
+
+#: inc/customizer/fields.php:112
+msgid "Open in new tab"
+msgstr "新しいタブで開く"
+
+#: inc/customizer/fields.php:106
+msgid "Social button"
+msgstr "SNSボタン"
+
+#: inc/customizer/fields.php:85
+msgid "example: 10px, 3em,0.75rem, 48%, 90vh etc."
+msgstr "例: 10px, 3em,0.75rem, 48%, 90vh など"
+
+#: inc/customizer/fields.php:83
+msgid "Top Bar menu text size"
+msgstr "トップバーメニューの文字サイズ"
+
+#: inc/customizer/fields.php:220
+msgid "Disable sticky menu"
+msgstr "固定メニューを使用しない"
+
+#: inc/customizer/fields.php:247
+msgid "Current menu text color"
+msgstr "現在のメニューの文字色"
+
+#: inc/customizer/fields.php:176
+msgid "Logo Position"
+msgstr "ロゴの配置"
+
+#: inc/customizer/fields.php:194
+msgid "Header Styling"
+msgstr "ヘッダースタイル"
+
+#: inc/customizer/fields.php:450 inc/customizer/fields.php:536
+#: inc/customizer/fields.php:601
+msgid "Show post orderby"
+msgstr "投稿の順序"
+
+#: inc/customizer/fields.php:411
+msgid "For show Home page like demo . setup home page"
+msgstr "デモのようなホームページを表示する。 ホームページを設定する"
+
+#: inc/customizer/fields.php:269
+msgid " Menu Typography"
+msgstr "メニューの文字スタイル"
+
+#: inc/customizer/fields.php:305
+msgid "Front background color"
+msgstr "手前の背景色"
+
+#: inc/customizer/fields.php:332
+msgid "Make website fullwidth"
+msgstr "サイトの最大幅にする"
+
+#: inc/customizer/fields.php:342 inc/customizer/fields.php:364
+msgid "example: 10px, 3em, 48%, 90vh etc."
+msgstr "例: 10px, 3em, 48%, 90vh など"
+
+#: inc/customizer/fields.php:360
+msgid "Site bottom margin"
+msgstr "サイト下のマージン"
+
+#: inc/customizer/fields.php:341
+msgid "Site Top margin"
+msgstr "サイト上のマージン"
+
+#: inc/customizer/fields.php:379
+msgid "Main Typography "
+msgstr "メインの文字設定"
+
+#: inc/customizer/fields.php:567
+msgid "Featured post title"
+msgstr "注目の投稿のタイトル"
+
+#: inc/customizer/fields.php:559
+msgid "On/Off featured post section"
+msgstr "注目の投稿エリアの表示/非表示"
+
+#: inc/customizer/fields.php:929
+msgid "Hide/Show Feature Image"
+msgstr "アイキャッチの表示/非表示"
+
+#: page-full_width.php:60 page.php:35 parts/content-single.php:94
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: functions/menu.php:230 page-full_width.php:64 page.php:39
+msgid "Page"
+msgstr "固定ページ"
+
+#: inc/widgets/latest-post-blogbig.php:145
+#: inc/widgets/latest-posts-news.php:184 inc/widgets/list-post-blog.php:143
+#: inc/widgets/recent-posts-single.php:125
+msgid "Title:"
+msgstr "タイトル:"
+
+#: inc/customizer/fields.php:226 inc/customizer/fields.php:296
+#: inc/customizer/fields.php:971 inc/customizer/fields.php:984
+#: inc/customizer/fields.php:997 inc/customizer/fields.php:1010
+#: inc/customizer/fields.php:1023 inc/customizer/fields.php:1037
+#: inc/customizer/fields.php:1115
+msgid "Disable"
+msgstr "無効化"
+
+#: inc/customizer.php:36
+msgid "Header Image"
+msgstr "ヘッダー画像"
+
+#: inc/customizer/fields.php:459 inc/customizer/fields.php:545
+#: inc/customizer/fields.php:611
+msgid "Title"
+msgstr "タイトル"
+
+#: functions.php:368 functions.php:370
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: functions/menu.php:225
+msgid "Author :"
+msgstr "投稿者:"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#: inc/customizer/fields.php:1004
+msgid "Tags"
+msgstr "タグ"
+
+#: inc/customizer/fields.php:991
+msgid "Comments"
+msgstr "コメント"
+
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:87
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:113
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:852
+msgid "Default"
+msgstr "デフォルト"
+
+#: functions/menu.php:186
+msgid "Y"
+msgstr "Y年"
+
+#: parts/content-none.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: inc/customizer/fields.php:456 inc/customizer/fields.php:542
+#: inc/customizer/fields.php:608 inc/customizer/fields.php:978
+msgid "Date"
+msgstr "日付"
+
+#: inc/customizer/sections.php:87
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: inc/customizer/fields.php:438 inc/customizer/fields.php:525
+#: inc/customizer/fields.php:589
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer/fields.php:225 inc/customizer/fields.php:295
+#: inc/customizer/fields.php:970 inc/customizer/fields.php:983
+#: inc/customizer/fields.php:996 inc/customizer/fields.php:1009
+#: inc/customizer/fields.php:1022 inc/customizer/fields.php:1036
+#: inc/customizer/fields.php:1114
+msgid "Enable"
+msgstr "有効化"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:227
+msgid "Scroll"
+msgstr "スクロール"
+
+#: inc/customizer/fields.php:409
+msgid "Notice"
+msgstr "通知"
+
+#: inc/customizer/fields.php:460 inc/customizer/fields.php:546
+#: inc/customizer/fields.php:612
+msgid "Random"
+msgstr "ランダム"
+
+#: inc/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr "オフ"
+
+#: inc/customizer/fields.php:127
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr "ソーシャル"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:383
+msgid "Underline"
+msgstr "下線"
+
+#: functions.php:378
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:194
+msgid "Cover"
+msgstr "カバー"
+
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr "画像を選択"
+
+#: functions/menu.php:75
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: inc/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr "カスタマイズ中"
+
+#. translators: The title.
+#: inc/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:65
+msgid "Customizing &#9656; %s"
+msgstr "&#9656;「%s」をカスタマイズ中"
+
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:89
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:111
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:116
+msgid "Select image"
+msgstr "画像を選択"
+
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:82
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:115
+#: inc/kirki/kirki-packages/control-image/dist/control.js:1
+#: inc/kirki/kirki-packages/control-image/src/control.js:100
+#: inc/kirki/kirki-packages/control-image/dist/control.js:100
+msgid "No image selected"
+msgstr "画像が選択されていません"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:196
+msgid "Auto"
+msgstr "自動"
+
+#: inc/customizer/fields.php:491
+msgid "Text color"
+msgstr "テキスト色"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:314
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/widgets/latest-post-blogbig.php:157
+#: inc/widgets/latest-posts-news.php:207 inc/widgets/list-post-blog.php:155
+#: inc/widgets/recent-posts-single.php:148
+msgid "Number of posts to show:"
+msgstr "表示する投稿数:"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:72
+msgid "Width"
+msgstr "幅"
+
+#: inc/customizer/fields.php:158
+msgid "Link URL"
+msgstr "リンク URL"
+
+#: functions/menu.php:192
+msgid "M"
+msgstr "M"
+
+#. translators: %s: post date
+#: functions/hooks.php:167
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">投稿日:</span> %s"
+
+#: inc/welcome/welcome-screen.php:58
+msgid "About %s"
+msgstr "%s について"
+
+#: inc/customizer/fields.php:121
+msgid "Add social icon"
+msgstr "ソーシャルアイコンを追加"
+
+#: inc/customizer/sections.php:17
+msgid "About Theme Info "
+msgstr "このテーマについて"
+
+#: inc/welcome/sections/getting-started.php:22
+msgid "Please check our full documentation for detailed information on how to use %s."
+msgstr "%s を使用する方法の詳細については、完全なドキュメントを確認してください。"
+
+#: inc/welcome/sections/getting-started.php:20
+msgid "Need more details?"
+msgstr "詳しい情報が必要ですか？"
+
+#: inc/widgets/latest-post-blogbig.php:19
+msgid "(BLOG POST LIST CLASSIC ) Displays latest posts or posts from a choosen category"
+msgstr "(クラシックなブログ記事一覧)選ばれたカテゴリから最新の投稿または投稿を表示します"
+
+#: inc/widgets/latest-posts-news.php:19
+msgid "(BLOG POST NEWS ) Displays latest posts or posts from a choosen category"
+msgstr "(ブログの記事のニュース) 選ばれたカテゴリから最新の投稿または投稿を表示します"
+
+#: inc/customizer/sections.php:67
+msgid "Featured post"
+msgstr "注目の投稿"
+
+#: inc/customizer/fields.php:631
+msgid "Latest post title"
+msgstr "最新の投稿のタイトル"
+
+#: functions.php:31 functions.php:175
+msgid "Primary Navigation(Header)"
+msgstr "トップヘッダーメニュー設定"
+
+#: functions/hooks.php:121
+msgid "Tagged:"
+msgstr "タグ :"
+
+#: comments.php:78
+msgid "LEAVE A RESPONSE"
+msgstr "返信する"
+
+#: inc/customizer/fields.php:418
+msgid "Create a custom homepage."
+msgstr "カスタムホームページを作る"
+
+#: inc/customizer/fields.php:420
+msgid "Learn How to create a custom homepage"
+msgstr "カスタムホームページの作り方"
+
+#: inc/widgets/latest-posts-news.php:211
+msgid "View All Text:"
+msgstr "すべてを表示"
+
+#: parts/box-author.php:33
+msgid "View all posts"
+msgstr "すべての投稿を表示"
+
+#: inc/customizer/fields.php:146
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr "上"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:71
+msgid "Spacing"
+msgstr "間隔"
+
+#: inc/customizer/fields.php:458 inc/customizer/fields.php:544
+#: inc/customizer/fields.php:610
+msgid "Author"
+msgstr "投稿者"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:69
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:352
+msgid "Center"
+msgstr "中央"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:354
+msgid "Justify"
+msgstr "両端揃え"
+
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:112
+msgid "Change image"
+msgstr "画像を変更"
+
+#: functions/single-postnavi.php:18
+msgid "Next Post"
+msgstr "次の投稿"
+
+#: functions/single-postnavi.php:17
+msgid "Previous Post"
+msgstr "前の投稿"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:160
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr "中央/中央"
+
+#. translators: %s: post title
+#: functions/hooks.php:102
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "コメントをどうぞ<span class=\"screen-reader-text\"> (%s)</span>"
+
+#. translators: %s: Name of current post
+#: page-full_width.php:48 page.php:23
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\" を</span>編集"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "「%s」への1件のフィードバック"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:347
+msgid "Text Align"
+msgstr "テキストの配置"
+
+#. translators: %s represents the label of the row.
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:104
+msgid "Add new %s"
+msgstr "新規%sを追加"
+
+#. translators: %s: Name of current post.
+#: parts/content-single.php:90
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s 続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#. Translators: If there are characters in newspaperssr language that are not
+#. supported by Lato, translate this to 'off'. Do not translate into
+#. newspaperssr own language.
+#: functions.php:300
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions/menu.php:245
+msgid "Error 404"
+msgstr "エラー 404"
+
+#: functions/hooks.php:61
+msgid "View all posts in %s"
+msgstr "%s の投稿をすべて表示"
+
+#: inc/welcome/sections/actions-required.php:19
+msgid "Go to Customizer"
+msgstr "カスタマイザーに進む"
+
+#: inc/welcome/welcome-screen.php:78
+msgid "Getting started"
+msgstr "はじめてみよう"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:125
+msgid "Repeat Horizontally"
+msgstr "水平方向に繰り返し"
+
+#: inc/customizer/fields.php:744
+msgid "Hover Color"
+msgstr "ホバーの色"
+
+#: inc/customizer/fields.php:1017
+msgid "Author Bio"
+msgstr "投稿者プロフィール"
+
+#: inc/widgets/latest-post-blogbig.php:143
+msgid "Blog style big"
+msgstr "ブログスタイル大"
+
+#: inc/welcome/sections/getting-started.php:25
+msgid "%s documentation"
+msgstr "%s のドキュメンテーション"
+
+#: functions.php:411
+msgid "Woocommerce Sidebar"
+msgstr "WooCommerce サイドバー"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:152
+msgid "Background Position"
+msgstr "背景位置"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:190
+msgid "Background Size"
+msgstr "背景サイズ"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:456
+msgid "Change Image"
+msgstr "画像を変更"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:195
+msgid "Contain"
+msgstr "含む"
+
+#. translators: %s: Name of current post
+#: functions/hooks.php:138
+msgid "Edit %s"
+msgstr "%sを編集"
+
+#: inc/customizer/fields.php:1310
+msgid "Header text color"
+msgstr "ヘッダーテキスト色"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:123
+msgid "No Repeat"
+msgstr "繰り返さない"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:126
+msgid "Repeat Vertically"
+msgstr "垂直方向に繰り返し"
+
+#: inc/welcome/sections/getting-started.php:14
+msgid "Welcome to %s!"
+msgstr "%s へようこそ !"
+
+#: functions/menu.php:235
+msgid "Search results for: "
+msgstr "検索結果:"
+
+#: inc/customizer/fields.php:1256
+msgid "Woocommerce title Enable/Disable"
+msgstr "WooCommerce タイトルを表示/非表示"
+
+#: inc/customizer/panels.php:63
+msgid "Woocommerce settings"
+msgstr "WooCommerce 設定"
+
+#: inc/customizer/sections.php:170
+msgid "Woocommerce settings "
+msgstr "WooCommerce 設定"
+
+#: inc/customizer/fields.php:61
+msgid "Top Bar color options "
+msgstr "トップバーの色設定"
+
+#: inc/customizer/fields.php:1237
+msgid "Copyright text"
+msgstr "著作権テキスト"
+
+#: inc/kirki/kirki-packages/compatibility/src/Init.php:206
+msgid "We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please use \\Kirki\\Util\\Util::get_variables() instead."
+msgstr "Kirki\\Compatibility\\Init::get_variables() を使用していることが検出されました。代わりに \\Kirki\\Util\\Util::get_variables() を使用してください。"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:384
+msgid "Line Through"
+msgstr "取り消し線"
